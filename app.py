@@ -3,7 +3,6 @@
 """
 Petit programme permettant de jouer à pile ou face
 """
-import os
 import random
 
 entree = ""
